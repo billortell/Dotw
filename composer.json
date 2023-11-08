@@ -1,0 +1,11 @@
+{
+  "name": "billortell/dotw",
+  "description": "Day of the week.",
+  "autoload": {
+    "psr-4": {
+      "billortell\\DotwPackage\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
